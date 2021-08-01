@@ -1,0 +1,8 @@
+elements of agame design:
+1,theame of the game
+2,playing caracter
+3.non playing chracter
+4.rules for thr game
+5. adaptivity of the game
+6.balance of the game
+7.feedback of the game to the player
